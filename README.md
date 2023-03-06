@@ -4,6 +4,14 @@
 
 <p align="center">
 <a href="https://github.com/REDZEOX/Rias-Gremory">
+    
+
+
+https://user-images.githubusercontent.com/118795823/223159934-5a2a5717-d7b7-4e64-9aed-67e7807353dc.mp4
+
+
+
+
     <a href="https://github.com/REDZEOX"><img src="https://i.ibb.co/Qm2FbM0/Rias-Gremory.jpg" alt="Rias-Gremory" border="0"></a>
 </h3>
 
